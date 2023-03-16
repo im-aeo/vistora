@@ -1,4 +1,4 @@
-# vistora
+# Vistora V3 Remake
 Laravel Vuejs remake of vistora. Svelte Version coming soon.
 
 # How To Use.
